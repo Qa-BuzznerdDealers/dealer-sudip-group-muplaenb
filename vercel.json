@@ -6,19 +6,19 @@
   "rewrites": [
     {
       "source": "/store",
-      "destination": "http://sudip-group.dev.buzznerdrv.com/store"
+      "destination": "https://sudip-group.aionerds.com/store"
     },
     {
       "source": "/store/",
-      "destination": "http://sudip-group.dev.buzznerdrv.com/store/"
+      "destination": "https://sudip-group.aionerds.com/store/"
     },
     {
       "source": "/store/:path*/",
-      "destination": "http://sudip-group.dev.buzznerdrv.com/store/:path*/"
+      "destination": "https://sudip-group.aionerds.com/store/:path*/"
     },
     {
       "source": "/store/:path*",
-      "destination": "http://sudip-group.dev.buzznerdrv.com/store/:path*"
+      "destination": "https://sudip-group.aionerds.com/store/:path*"
     }
   ],
   "headers": [
